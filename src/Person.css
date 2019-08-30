@@ -1,0 +1,15 @@
+*{
+    background-color: lightblue
+}
+
+.person-style{
+    
+    margin-top: 20px;
+    width:90%;
+    border : 1px solid blue;
+    margin-left:20px
+
+}
+p{
+    margin-left:20px;
+}
