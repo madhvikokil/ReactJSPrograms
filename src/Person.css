@@ -1,0 +1,17 @@
+*{
+    background-color: lightblue;
+    margin :0 auto;
+}
+
+.person-style{
+    
+    margin-top: 20px;
+    width:90%;
+    border : 1px solid blue;
+    margin-bottom: 20px;
+    text-align: center
+
+}
+p{
+    margin-left:20px;
+}
